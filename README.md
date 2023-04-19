@@ -6,7 +6,7 @@ https://rakibul-123.github.io/pops/
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="publish.css">
-    <title>Welcome</title>
+    
 </head>
 <body>
     <h1 class="boo">You are Welcome in my website</h1><br>
