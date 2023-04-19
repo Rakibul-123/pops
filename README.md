@@ -1,5 +1,20 @@
-# pops
-https://rakibul-123.github.io/pops/
-ole.html
-publish.css
-Rakibul Hassan.jpg
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="publish.css">
+    <title>Welcome</title>
+</head>
+<body>
+    <h1 class="boo">You are Welcome in my website</h1><br>
+    <p><b>Here you will know about me</b></p>
+    <p>My name is Rakibul Hassan. I completed ssc from <a href="http://mmodel.edu.bd/">Model High School</a> and my college is <a href="https://cambrian.edu.bd/">cambrian college</a></p>
+    <p>Currently, I am pursuing another degree on English Literature from </p>
+    <img src="Rakibul Hassan.jpg">
+    <P>Kere mama</P>
+    <p>halar po hala</p>
+    
+</body>
+</html>
